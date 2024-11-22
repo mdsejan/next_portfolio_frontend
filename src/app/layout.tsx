@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "MetroShop",
-  description: "A modern e-commerce platform"
+  title: "Md Sejan",
+  description: "Web Developer"
 };
 
 export default function RootLayout({
